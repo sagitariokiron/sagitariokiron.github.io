@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.sagitariokiron.twa",
+    "sha256_cert_fingerprints": ["86:E0:EC:5C:82:EC:3B:8A:94:54:8B:53:B9:E9:CE:21:F6:30:48:0E:68:FA:E4:A2:7B:8F:3F:AA:66:9F:32:D0"]
+  }
+}]
